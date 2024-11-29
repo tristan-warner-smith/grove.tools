@@ -55,10 +55,5 @@ banner:
 
 # Apple App Site Association
 
-include: [".well-known"]
-defaults:
-  - scope:
-      path: ".well-known/apple-app-site-association"
-    values:
-      layout: null
-      content_type: "application/json"
+include:
+ - .well-known
