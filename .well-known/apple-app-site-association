@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": ["DSR7RC6YG7.com.codeglee.apps.grove.development", "DSR7RC6YG7.com.codeglee.apps.grove.production"],
+                "paths": ["*"]
+            }
+        ]
+    }
+}
